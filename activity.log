@@ -4,3 +4,4 @@
 [2025-11-24 12:28:4 +0530] perf(sync): reduce RTDB latency overhead
 [2025-11-25 17:55:13 +0530] chore(build): update release pipeline configs
 [2025-11-25 20:57:24 +0530] feat(engine): optimize event stream dispatching
+[2025-11-25 11:32:11 +0530] fix(desktop): resolve window rendering pipeline
