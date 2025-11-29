@@ -12,3 +12,4 @@
 [2025-11-28 13:19:45 +0530] fix(desktop): resolve window rendering pipeline
 [2025-11-28 19:41:20 +0530] feat(engine): optimize event stream dispatching
 [2025-11-28 10:55:37 +0530] fix(network): handle offline reconnect gracefully
+[2025-11-29 20:23:14 +0530] fix(network): handle offline reconnect gracefully
