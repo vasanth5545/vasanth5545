@@ -31,3 +31,4 @@
 [2025-12-09 18:56:11 +0530] fix(desktop): resolve window rendering pipeline
 [2025-12-10 10:23:26 +0530] feat(engine): optimize event stream dispatching
 [2025-12-10 19:37:49 +0530] chore(build): update release pipeline configs
+[2025-12-10 12:2:46 +0530] fix(desktop): resolve window rendering pipeline
