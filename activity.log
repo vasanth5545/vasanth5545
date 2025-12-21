@@ -42,3 +42,4 @@
 [2025-12-19 19:50:53 +0530] test(services): add integration verification cases
 [2025-12-19 20:31:27 +0530] docs(architecture): update system design specs
 [2025-12-19 11:12:12 +0530] style(theme): refine dark mode cyberpunk palette
+[2025-12-21 12:53:46 +0530] fix(desktop): resolve window rendering pipeline
