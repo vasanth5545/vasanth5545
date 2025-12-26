@@ -53,3 +53,4 @@
 [2025-12-23 12:54:6 +0530] perf(sync): reduce RTDB latency overhead
 [2025-12-25 15:15:55 +0530] style(theme): refine dark mode cyberpunk palette
 [2025-12-25 21:11:7 +0530] feat(engine): optimize event stream dispatching
+[2025-12-26 20:14:51 +0530] fix(network): handle offline reconnect gracefully
