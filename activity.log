@@ -57,3 +57,4 @@
 [2025-12-26 13:23:40 +0530] feat(storage): enhance SQLite caching layer
 [2025-12-28 12:17:0 +0530] feat(engine): optimize event stream dispatching
 [2025-12-28 16:9:40 +0530] fix(desktop): resolve window rendering pipeline
+[2025-12-28 10:35:22 +0530] fix(network): handle offline reconnect gracefully
