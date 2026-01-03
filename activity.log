@@ -66,3 +66,4 @@
 [2025-12-31 13:25:9 +0530] perf(memory): optimize garbage collection cycles
 [2026-01-01 12:44:2 +0530] style(theme): refine dark mode cyberpunk palette
 [2026-01-03 21:49:18 +0530] feat(ui): smooth subpixel layout animations
+[2026-01-03 12:7:42 +0530] chore(build): update release pipeline configs
