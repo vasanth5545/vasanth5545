@@ -69,3 +69,4 @@
 [2026-01-03 12:7:42 +0530] chore(build): update release pipeline configs
 [2026-01-04 20:45:7 +0530] docs(architecture): update system design specs
 [2026-01-04 13:37:29 +0530] fix(network): handle offline reconnect gracefully
+[2026-01-04 21:2:42 +0530] fix(desktop): resolve window rendering pipeline
