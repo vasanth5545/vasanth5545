@@ -88,3 +88,4 @@
 [2026-01-12 20:28:19 +0530] chore(build): update release pipeline configs
 [2026-01-12 14:20:10 +0530] chore(build): update release pipeline configs
 [2026-01-12 12:23:41 +0530] fix(desktop): resolve window rendering pipeline
+[2026-01-14 21:9:46 +0530] feat(ui): smooth subpixel layout animations
