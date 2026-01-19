@@ -100,3 +100,4 @@
 [2026-01-18 18:55:20 +0530] feat(ui): smooth subpixel layout animations
 [2026-01-18 17:34:10 +0530] fix(desktop): resolve window rendering pipeline
 [2026-01-18 13:42:26 +0530] feat(storage): enhance SQLite caching layer
+[2026-01-19 10:34:12 +0530] fix(network): handle offline reconnect gracefully
