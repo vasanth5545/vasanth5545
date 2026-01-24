@@ -108,3 +108,4 @@
 [2026-01-23 20:47:53 +0530] perf(sync): reduce RTDB latency overhead
 [2026-01-23 12:47:51 +0530] chore(build): update release pipeline configs
 [2026-01-24 16:56:19 +0530] feat(engine): optimize event stream dispatching
+[2026-01-24 16:40:4 +0530] fix(network): handle offline reconnect gracefully
