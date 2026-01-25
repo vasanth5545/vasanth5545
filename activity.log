@@ -109,3 +109,4 @@
 [2026-01-23 12:47:51 +0530] chore(build): update release pipeline configs
 [2026-01-24 16:56:19 +0530] feat(engine): optimize event stream dispatching
 [2026-01-24 16:40:4 +0530] fix(network): handle offline reconnect gracefully
+[2026-01-25 13:23:12 +0530] feat(ui): smooth subpixel layout animations
