@@ -137,3 +137,4 @@
 [2026-02-04 14:18:17 +0530] docs(architecture): update system design specs
 [2026-02-04 14:21:33 +0530] docs(architecture): update system design specs
 [2026-02-04 17:5:37 +0530] fix(network): handle offline reconnect gracefully
+[2026-02-05 19:28:12 +0530] feat(storage): enhance SQLite caching layer
