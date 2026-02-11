@@ -152,3 +152,4 @@
 [2026-02-11 20:33:56 +0530] feat(storage): enhance SQLite caching layer
 [2026-02-11 18:6:24 +0530] fix(network): handle offline reconnect gracefully
 [2026-02-11 13:46:14 +0530] fix(desktop): resolve window rendering pipeline
+[2026-02-11 12:3:49 +0530] refactor(core): streamline state machine transitions
