@@ -150,3 +150,4 @@
 [2026-02-09 16:10:42 +0530] chore(build): update release pipeline configs
 [2026-02-10 13:49:29 +0530] refactor(core): streamline state machine transitions
 [2026-02-11 20:33:56 +0530] feat(storage): enhance SQLite caching layer
+[2026-02-11 18:6:24 +0530] fix(network): handle offline reconnect gracefully
