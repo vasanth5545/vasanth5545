@@ -170,3 +170,4 @@
 [2026-02-18 14:50:44 +0530] fix(desktop): resolve window rendering pipeline
 [2026-02-18 20:1:29 +0530] perf(sync): reduce RTDB latency overhead
 [2026-02-19 16:55:20 +0530] style(theme): refine dark mode cyberpunk palette
+[2026-02-20 12:58:0 +0530] fix(network): handle offline reconnect gracefully
