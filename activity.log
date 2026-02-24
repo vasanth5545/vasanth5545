@@ -178,3 +178,4 @@
 [2026-02-22 16:35:35 +0530] chore(build): update release pipeline configs
 [2026-02-23 21:16:21 +0530] fix(network): handle offline reconnect gracefully
 [2026-02-23 15:53:25 +0530] fix(network): handle offline reconnect gracefully
+[2026-02-24 12:47:3 +0530] perf(sync): reduce RTDB latency overhead
