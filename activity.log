@@ -191,3 +191,4 @@
 [2026-03-05 20:24:55 +0530] fix(network): handle offline reconnect gracefully
 [2026-03-06 15:44:45 +0530] fix(desktop): resolve window rendering pipeline
 [2026-03-06 20:46:8 +0530] chore(build): update release pipeline configs
+[2026-03-07 11:27:16 +0530] feat(ui): smooth subpixel layout animations
