@@ -198,3 +198,4 @@
 [2026-03-08 19:52:50 +0530] chore(build): update release pipeline configs
 [2026-03-09 20:24:24 +0530] docs(architecture): update system design specs
 [2026-03-09 17:16:48 +0530] fix(desktop): resolve window rendering pipeline
+[2026-03-09 13:36:2 +0530] refactor(core): streamline state machine transitions
