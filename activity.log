@@ -224,3 +224,4 @@
 [2026-03-19 11:47:45 +0530] fix(network): handle offline reconnect gracefully
 [2026-03-19 11:5:12 +0530] perf(sync): reduce RTDB latency overhead
 [2026-03-19 19:3:38 +0530] fix(network): handle offline reconnect gracefully
+[2026-03-19 14:15:38 +0530] refactor(core): streamline state machine transitions
