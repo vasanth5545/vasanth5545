@@ -226,3 +226,4 @@
 [2026-03-19 19:3:38 +0530] fix(network): handle offline reconnect gracefully
 [2026-03-19 14:15:38 +0530] refactor(core): streamline state machine transitions
 [2026-03-22 16:48:35 +0530] refactor(core): streamline state machine transitions
+[2026-03-24 10:55:25 +0530] feat(ui): smooth subpixel layout animations
