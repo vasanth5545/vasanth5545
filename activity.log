@@ -235,3 +235,4 @@
 [2026-03-26 13:24:38 +0530] perf(memory): optimize garbage collection cycles
 [2026-03-26 18:27:54 +0530] perf(sync): reduce RTDB latency overhead
 [2026-03-27 12:37:56 +0530] perf(sync): reduce RTDB latency overhead
+[2026-03-27 18:43:5 +0530] fix(desktop): resolve window rendering pipeline
