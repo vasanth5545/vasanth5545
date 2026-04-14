@@ -268,3 +268,4 @@
 [2026-04-14 12:40:38 +0530] fix(desktop): resolve window rendering pipeline
 [2026-04-14 11:34:56 +0530] refactor(core): streamline state machine transitions
 [2026-04-14 18:27:45 +0530] feat(storage): enhance SQLite caching layer
+[2026-04-14 21:46:21 +0530] feat(storage): enhance SQLite caching layer
