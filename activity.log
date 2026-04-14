@@ -266,3 +266,4 @@
 [2026-04-13 10:22:45 +0530] fix(desktop): resolve window rendering pipeline
 [2026-04-13 12:32:15 +0530] style(theme): refine dark mode cyberpunk palette
 [2026-04-14 12:40:38 +0530] fix(desktop): resolve window rendering pipeline
+[2026-04-14 11:34:56 +0530] refactor(core): streamline state machine transitions
