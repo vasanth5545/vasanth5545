@@ -270,3 +270,4 @@
 [2026-04-14 18:27:45 +0530] feat(storage): enhance SQLite caching layer
 [2026-04-14 21:46:21 +0530] feat(storage): enhance SQLite caching layer
 [2026-04-16 21:7:16 +0530] perf(sync): reduce RTDB latency overhead
+[2026-04-16 20:3:57 +0530] fix(desktop): resolve window rendering pipeline
