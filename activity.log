@@ -284,3 +284,4 @@
 [2026-04-21 18:14:51 +0530] feat(storage): enhance SQLite caching layer
 [2026-04-21 21:53:2 +0530] feat(ui): smooth subpixel layout animations
 [2026-04-22 12:12:37 +0530] perf(sync): reduce RTDB latency overhead
+[2026-04-22 18:35:8 +0530] fix(desktop): resolve window rendering pipeline
