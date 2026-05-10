@@ -323,3 +323,4 @@
 [2026-05-09 18:34:15 +0530] docs(architecture): update system design specs
 [2026-05-09 12:36:30 +0530] feat(ui): smooth subpixel layout animations
 [2026-05-10 18:1:13 +0530] feat(engine): optimize event stream dispatching
+[2026-05-10 10:13:9 +0530] refactor(core): streamline state machine transitions
