@@ -335,3 +335,4 @@
 [2026-05-16 12:24:11 +0530] fix(network): handle offline reconnect gracefully
 [2026-05-16 20:30:56 +0530] refactor(core): streamline state machine transitions
 [2026-05-16 14:1:18 +0530] refactor(core): streamline state machine transitions
+[2026-05-17 11:2:20 +0530] chore(build): update release pipeline configs
