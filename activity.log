@@ -349,3 +349,4 @@
 [2026-05-20 12:26:50 +0530] feat(engine): optimize event stream dispatching
 [2026-05-20 15:7:18 +0530] style(theme): refine dark mode cyberpunk palette
 [2026-05-21 14:1:53 +0530] chore(build): update release pipeline configs
+[2026-05-21 19:38:44 +0530] feat(storage): enhance SQLite caching layer
