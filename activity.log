@@ -357,3 +357,4 @@
 [2026-05-22 19:10:39 +0530] feat(ui): smooth subpixel layout animations
 [2026-05-22 15:27:33 +0530] chore(build): update release pipeline configs
 [2026-05-25 15:30:15 +0530] refactor(core): streamline state machine transitions
+[2026-05-25 14:41:3 +0530] docs(architecture): update system design specs
