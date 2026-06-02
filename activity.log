@@ -368,3 +368,4 @@
 [2026-05-31 10:11:51 +0530] test(services): add integration verification cases
 [2026-05-31 20:28:51 +0530] feat(storage): enhance SQLite caching layer
 [2026-06-02 13:45:52 +0530] feat(ui): smooth subpixel layout animations
+[2026-06-02 11:39:6 +0530] docs(architecture): update system design specs
