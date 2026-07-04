@@ -432,3 +432,4 @@
 [2026-07-02 10:21:12 +0530] feat(engine): optimize event stream dispatching
 [2026-07-03 13:27:48 +0530] fix(network): handle offline reconnect gracefully
 [2026-07-03 18:7:20 +0530] feat(engine): optimize event stream dispatching
+[2026-07-04 14:15:33 +0530] refactor(core): streamline state machine transitions
