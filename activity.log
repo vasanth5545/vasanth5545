@@ -475,3 +475,4 @@
 [2026-07-24 13:56:16 +0530] refactor(core): streamline state machine transitions
 [2026-07-26 18:37:22 +0530] fix(network): handle offline reconnect gracefully
 [2026-07-26 14:43:6 +0530] fix(desktop): resolve window rendering pipeline
+[2026-07-26 11:47:28 +0530] chore(build): update release pipeline configs
