@@ -559,3 +559,4 @@
 [2026-09-03 13:56:5 +0530] feat(ui): smooth subpixel layout animations
 [2026-09-03 19:44:11 +0530] feat(storage): enhance SQLite caching layer
 [2026-09-03 18:40:3 +0530] feat(storage): enhance SQLite caching layer
+[2026-09-06 17:29:8 +0530] chore(build): update release pipeline configs
