@@ -575,3 +575,4 @@
 [2026-09-14 21:44:21 +0530] feat(storage): enhance SQLite caching layer
 [2026-09-14 21:49:31 +0530] docs(architecture): update system design specs
 [2026-09-15 14:17:48 +0530] fix(desktop): resolve window rendering pipeline
+[2026-09-17 19:58:36 +0530] docs(architecture): update system design specs
