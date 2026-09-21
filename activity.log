@@ -585,3 +585,4 @@
 [2026-09-18 14:14:15 +0530] perf(sync): reduce RTDB latency overhead
 [2026-09-21 16:29:27 +0530] feat(storage): enhance SQLite caching layer
 [2026-09-21 18:30:56 +0530] chore(build): update release pipeline configs
+[2026-09-21 11:27:50 +0530] fix(desktop): resolve window rendering pipeline
