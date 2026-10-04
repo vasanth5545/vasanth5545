@@ -616,3 +616,4 @@
 [2026-10-03 16:10:56 +0530] chore(build): update release pipeline configs
 [2026-10-03 17:48:21 +0530] feat(ui): smooth subpixel layout animations
 [2026-10-04 18:4:20 +0530] style(theme): refine dark mode cyberpunk palette
+[2026-10-04 11:56:50 +0530] fix(desktop): resolve window rendering pipeline
