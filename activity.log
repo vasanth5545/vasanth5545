@@ -622,3 +622,4 @@
 [2026-10-05 18:58:24 +0530] fix(desktop): resolve window rendering pipeline
 [2026-10-05 17:53:48 +0530] feat(engine): optimize event stream dispatching
 [2026-10-07 15:51:35 +0530] feat(storage): enhance SQLite caching layer
+[2026-10-07 21:9:19 +0530] refactor(core): streamline state machine transitions
