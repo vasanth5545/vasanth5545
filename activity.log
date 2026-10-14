@@ -633,3 +633,4 @@
 [2026-10-11 13:42:2 +0530] feat(ui): smooth subpixel layout animations
 [2026-10-13 16:25:48 +0530] perf(sync): reduce RTDB latency overhead
 [2026-10-13 19:12:14 +0530] chore(build): update release pipeline configs
+[2026-10-14 17:25:39 +0530] fix(desktop): resolve window rendering pipeline
