@@ -5,8 +5,10 @@
   <br/><br/>
 
   <a href="https://github.com/vasanth5545">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Founder+%26+Lead+Architect+at+L3NZO.;Building+High-Throughput+Desktop+%26+Cloud+SaaS;Flutter+Desktop+%E2%80%A2+Dart+%E2%80%A2+Firebase+RTDB+%E2%80%A2+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=110&lines=Founder+%26+Lead+Architect+at+L3NZO.;Building+High-Throughput+Desktop+%26+Cloud+SaaS;Flutter+Desktop+%E2%80%A2+Dart+%E2%80%A2+Firebase+RTDB+%E2%80%A2+React" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
 
   <p align="center">
     <a href="https://l3nzo.web.app"><img src="https://img.shields.io/badge/Enterprise-L3NZO._SOFTWARE_SERVICES-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Enterprise" /></a>
@@ -44,9 +46,7 @@ I am a **Software Architect & Startup Founder** building production-grade, low-l
       <p>👉 <strong><a href="https://github.com/vasanth5545/l3nzo">Explore L3NZO. Showcase &amp; Downloads</a></strong></p>
     </td>
     <td width="35%" align="center">
-      <a href="https://github.com/vasanth5545/l3nzo">
-        <img src="https://img.shields.io/badge/Download-L3NZO._Setup.exe-6366F1?style=for-the-badge&logo=windows&logoColor=white" alt="Download" />
-      </a>
+      <img src="https://img.shields.io/badge/Desktop_Setup-Coming_Soon_(Private_Beta)-6366F1?style=for-the-badge&logo=windows&logoColor=white" alt="Coming Soon" />
       <br/><br/>
       <a href="https://l3nzo.web.app">
         <img src="https://img.shields.io/badge/Web_Cloud-l3nzo.web.app-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Site" />
